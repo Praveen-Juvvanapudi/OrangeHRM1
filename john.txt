@@ -1,0 +1,7 @@
+Start with <a(achor tag) then only we write linkTest and PartiallinkTest
+linkTest-Static Hyper link- No Change links-EX-Nationals,Stats
+PartiallinkTest-Danamic Hyper link-Change links every time-Ex-avalibel seats(27),orders()157,inbox(57)
+
+cssSelector
+"input#txtUsername"
+"input#txtPassword"

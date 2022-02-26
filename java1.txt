@@ -1,0 +1,3 @@
+xpath//*[@id="txtUsername"]
+xpath//*[@id="btnLogin"]
+xpath//*[@id="txtPassword"]
